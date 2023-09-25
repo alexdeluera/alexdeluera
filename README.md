@@ -9,5 +9,5 @@ Trained as a mechanical engineer with a knack for problem-solving and a passion 
 - ⚡ Fun fact: The world's first computer programmer was a woman named Ada Lovelace! #womenInSTEM 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=alexdeluera&color=4ac8bc&style=for-the-badge&align=center" width=10% border="10"/>
+<img src="https://komarev.com/ghpvc/?username=alexdeluera&color=4ac8bc&style=for-the-badge&align=center" width=20% border="10"/>
 </p>
