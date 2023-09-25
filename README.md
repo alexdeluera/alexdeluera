@@ -7,3 +7,5 @@ Trained as a mechanical engineer with a knack for problem-solving and a passion 
 - 🌱 I’m currently learning:  <img src="https://github.com/alexdeluera/alexdeluera/assets/134332668/b1429051-7d05-4b78-8019-8e79ba9428a7" width="20">
 - 📫 How to reach me: Email me at alexdeluera@gmail.com or send me a DM on LinkedIn or https://alexdeluera.com!
 - ⚡ Fun fact: The world's first computer programmer was a woman named Ada Lovelace! #womenInSTEM 
+
+![](https://komarev.com/ghpvc/?username=alexdeluera&color=4ac8bc&style=for-the-badge)
